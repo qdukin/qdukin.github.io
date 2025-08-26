@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# <i class="fa fa-user" style="color:#FFD700;"></i> About me
+# <i class="fa fa-user" style="color:#FFD700;"></i>  About me
 
 I am an Assistant Professor and Master’s Supervisor at the [College of Mechanical and Electrical Engineering, Qingdao University](https://jdxy.qdu.edu.cn/). I have been recognized as a Young Outstanding Talent of Qingdao University and a recipient of the Golden Seed Talent Program of Qingdao City. I obtained my Ph.D. degree through a joint training program between [China Agricultural University](https://coe.cau.edu.cn/) and the [University of Lincoln](https://www.lincoln.ac.uk/liat/), UK.
 
-I have presided over a National Natural Science Foundation of China (NSFC) Youth Project and participated in several National Key R&D Programs as well as enterprise-funded research projects. To date, I have published more than 20 SCI-indexed papers and hold multiple authorized invention patents. I also serve as the Deputy Director of the Professional Committee of the Shandong Agricultural Machinery Society and as a reviewer for journals such as COMPAG, BE, and ESWA.
+I have presided over a National Natural Science Foundation of China (NSFC) Youth Project and participated in several National Key R&D Programs as well as enterprise-funded research projects. To date, I have published 20+ SCI papers and hold multiple authorized invention patents. I also serve as the Deputy Director of the Professional Committee of the Shandong Agricultural Machinery Society and as a reviewer for journals such as COMPAG, BE, and ESWA.
 
 My research interest includes **robotics**, **machine vision**, and **intelligent equipment**. 
 
