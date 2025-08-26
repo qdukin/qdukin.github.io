@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jin Gao | 高金"
+title                    : "Jin Gao"
 description              : "Focusing on robotics, machine vision, and intelligent equipment."
 repository               : "gaojinlab/gaojinlab.github.io"
 google_scholar_stats_use_cdn : true
