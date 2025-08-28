@@ -56,9 +56,10 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 👥 Team
-**Postgraduates**
-- *2024.09 - 2027.06*, Hanwen Xing.
-- *2024.09 - 2027.06*, Jincheng Li.
+**Postgraduates:**
+- *2024*, Hanwen Xing, Jinan University.
+- *2024*, Jincheng Li, Changchun University Of Technology.
 
-**Undergraduates**
-- *2024.06 - 2026.06*, Xushuo Xing.
+**Undergraduates:**
+- *2024*, Xushuo Xing, Qingdao university.
+- *2025*, Guanbin Ye, Qingdao university.
