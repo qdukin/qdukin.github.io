@@ -23,11 +23,12 @@ I have presided over a National Natural Science Foundation of China (NSFC) Youth
 
 My research interest includes **robotics**, **machine vision**, and **intelligent equipment**. 
 
-# 💬 Projects
+# 🔥 Projects
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,22 +45,22 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Awards
-- *2025.05*, ​​Outstanding Advisor Award, International College Student Intelligent Agricultural Equipment Innovation Competition​.
-- *2025.05*, Grand Prize, International College Student Intelligent Agricultural Equipment Innovation Competition (National Level)​.
-- *2023.06*, Outstanding Graduate of Beijing Ordinary Higher Education Institutions.
-- *2023.06*, Outstanding Graduate of China Agricultural University.
-- *2021.06*, National Study Abroad Scholarship for Public-Sponsored Students.
-- *2021.09*, Featured on CCTV-2 for Technological Achievements.
-- *2021.10*, Exhibitor at the National "13th Five-Year Plan" Science and Technology Innovation Achievements Exhibition.
-- *2017.10*, First Prize, China Agricultural Robotics Competition​ (National Level)​.
+- *2025.05*, ​&nbsp;🎉 ​Outstanding Advisor Award, International College Student Intelligent Agricultural Equipment Innovation Competition​.
+- *2025.05*, &nbsp;🎉 Grand Prize, International College Student Intelligent Agricultural Equipment Innovation Competition (National Level)​.
+- *2023.06*, &nbsp;🎉 Outstanding Graduate of Beijing Ordinary Higher Education Institutions.
+- *2023.06*, &nbsp;🎉 Outstanding Graduate of China Agricultural University.
+- *2021.06*, &nbsp;🎉 National Study Abroad Scholarship for Public-Sponsored Students.
+- *2021.09*, &nbsp;🎉 Featured on CCTV-2 for Technological Achievements.
+- *2021.10*, &nbsp;🎉 Exhibitor at the National "13th Five-Year Plan" Science and Technology Innovation Achievements Exhibition.
+- *2017.10*, &nbsp;🎉 First Prize, China Agricultural Robotics Competition​ (National Level)​.
 
 # 📖 Experiences
-- *2019.06 - 2024.01*, China Agricultural University, Mechanical Manufacturing and Automation, PhD. 
-- *2022.06 - 2023.07*, University of Lincoln (UK), Robotics, Joint PhD Training.
-- *2025.09 - 2022.09*, Wuzheng Group, ​​Autonomous Unmanned Systems, In-service postdoctoral researcher​.
+- *2019.06 - 2024.01*, China Agricultural University, PhD. 
+- *2022.06 - 2023.07*, University of Lincoln (UK), Joint PhD Training.
+- *2025.09 - 2027.09*, Wuzheng Group, In-service postdoctoral researcher​.
 - *2024.01 - Now*, Qingdao University, Assistant Professor.
 
-# 🔥 News
+# 💬 News
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
