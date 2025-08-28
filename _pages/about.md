@@ -19,7 +19,7 @@ redirect_from:
 
 I am an Assistant Professor and Master’s Supervisor at the [College of Mechanical and Electrical Engineering, Qingdao University](https://jdxy.qdu.edu.cn/). I have been recognized as a Young Outstanding Talent of Qingdao University and a recipient of the Golden Seed Talent Program of Qingdao City. I obtained my Ph.D. degree through a joint training program between [China Agricultural University](https://coe.cau.edu.cn/) and the [University of Lincoln](https://www.lincoln.ac.uk/liat/), UK.
 
-I have presided over a National Natural Science Foundation of China (NSFC) Youth Project and participated in several National Key R&D Programs as well as enterprise-funded research projects. To date, I have published 20+ SCI papers and hold multiple authorized invention patents. I also serve as the Deputy Director of the Professional Committee of the [Shandong Agricultural Machinery Society](http://www.saams.com.cn/col/col346753/index.html) and as a reviewer for journals such as COMPAG, BE, and ESWA.
+I have presided over a National Natural Science Foundation of China (NSFC) Youth Project and participated in several National Key R&D Programs as well as enterprise-funded research projects. To date, I have published 20+ SCI papers and hold multiple authorized invention patents. I also serve as the Deputy Director of the Professional Committee of the Shandong Agricultural Machinery Society and as a reviewer for journals such as COMPAG, BE, and ESWA.
 
 My research interest includes **robotics**, **machine vision**, and **intelligent equipment**. 
 
@@ -36,33 +36,33 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 **2025:**
 
-- A Lightweight Multi-View Visual Approach for Real-Time Cherry Tomato Detection, Tracking and Counting for Greenhouse Inspection Robots. Xushuo Xing, **Jin Gao**, Fangyan Wang, Shubo Wang, Xiuning Hou, Junfeng Gao. Artificial Intelligence in Agriculture. 2025. (Under review)
+- A Lightweight Multi-View Visual Approach for Real-Time Cherry Tomato Detection, Tracking and Counting for Greenhouse Inspection Robots. Xushuo Xing, **Jin Gao**, Fangyan Wang, Shubo Wang, Xiuning Hou, Junfeng Gao. *Artificial Intelligence in Agriculture*. 2025. (Under review)
 
 **2024:**
 
-- [Picking patterns evaluation for cherry tomato robotic harvesting end-effector design](https://www.sciencedirect.com/science/article/abs/pii/S1537511024000151?via%3Dihub). **Jin Gao**, Fan Zhang, Junxiong Zhang, Hui Guo, Junfeng Gao. Biosystems Engineering. 2024.
+- [Picking patterns evaluation for cherry tomato robotic harvesting end-effector design](https://www.sciencedirect.com/science/article/abs/pii/S1537511024000151?via%3Dihub). **Jin Gao**, Fan Zhang, Junxiong Zhang, Hui Guo, Junfeng Gao. *Biosystems Engineering*. 2024.
 
-- [LACTA: A lightweight and accurate algorithm for cherry tomato detection in unstructured environments](https://www.sciencedirect.com/science/article/abs/pii/S0957417423025757?via%3Dihub). **Jin Gao**, Junxiong Zhang, Fan Zhang, Junfeng Gao. Expert Systems with Applications. 2024.
+- [LACTA: A lightweight and accurate algorithm for cherry tomato detection in unstructured environments](https://www.sciencedirect.com/science/article/abs/pii/S0957417423025757?via%3Dihub). **Jin Gao**, Junxiong Zhang, Fan Zhang, Junfeng Gao. *Expert Systems with Applications*. 2024.
 
-- [Greenhouse tomato detection and pose classification algorithm based on improved YOLOv5](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009079?via%3Dihub). Junxiong Zhang, Jinyi Xie, Fan Zhang, **Jin Gao**, Chen Yang, Chaoyu Song, Weijie Rao, Yu Zhang. Computers and Electronics in Agriculture. 2024.
+- [Greenhouse tomato detection and pose classification algorithm based on improved YOLOv5](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009079?via%3Dihub). Junxiong Zhang, Jinyi Xie, Fan Zhang, **Jin Gao**, Chen Yang, Chaoyu Song, Weijie Rao, Yu Zhang. *Computers and Electronics in Agriculture*. 2024.
 
-- [A multi-species pest recognition and counting method based on a density map in the greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009420?via%3Dihub). Zhiqin Zhang, Jiacheng Rong, Zhongxian Qi, Yan Yang, Xxiajun Zheng, **Jin Gao**, Wei Li, Ting Yuan. Computers and Electronics in Agriculture. 2024.
+- [A multi-species pest recognition and counting method based on a density map in the greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009420?via%3Dihub). Zhiqin Zhang, Jiacheng Rong, Zhongxian Qi, Yan Yang, Xxiajun Zheng, **Jin Gao**, Wei Li, Ting Yuan. *Computers and Electronics in Agriculture*. 2024.
 
 **2023:**
 
-- [Development and field performance evaluation of hole-fertilizing planter and dynamic alignment control system for precision planting of corn](https://link.springer.com/article/10.1007/s11119-023-09988-6). **Jin Gao**, Fan Zhang, Junxiong Zhang, Hang Zhou, Ting Yuan.Precision Agriculture. 2023.
+- [Development and field performance evaluation of hole-fertilizing planter and dynamic alignment control system for precision planting of corn](https://link.springer.com/article/10.1007/s11119-023-09988-6). **Jin Gao**, Fan Zhang, Junxiong Zhang, Hang Zhou, Ting Yuan. *Precision Agriculture*. 2023.
 
-- [TPMv2: An end-to-end tomato pose method based on 3D key points detection](https://www.sciencedirect.com/science/article/abs/pii/S0168169923002661). Fan Zhang, **Jin Gao**, Chaoyu Song, Hang Zhou, Kunlin Zou, Jinyi Xie, Ting Yuan, Junxiong Zhang. Computers and Electronics in Agriculture. 2023.
+- [TPMv2: An end-to-end tomato pose method based on 3D key points detection](https://www.sciencedirect.com/science/article/abs/pii/S0168169923002661). Fan Zhang, **Jin Gao**, Chaoyu Song, Hang Zhou, Kunlin Zou, Jinyi Xie, Ting Yuan, Junxiong Zhang. *Computers and Electronics in Agriculture*. 2023.
 
-- [Evaluation of Cutting Stability of a Natural-Rubber-Tapping Robot](https://www.mdpi.com/2077-0472/13/3/583). Hang Zhou, **Jin Gao**, Fan Zhang, Junxiong Zhang, Song Wang, Chunlong Zhang, Wei Li. Agriculture. 2023.
+- [Evaluation of Cutting Stability of a Natural-Rubber-Tapping Robot](https://www.mdpi.com/2077-0472/13/3/583). Hang Zhou, **Jin Gao**, Fan Zhang, Junxiong Zhang, Song Wang, Chunlong Zhang, Wei Li. *Agriculture*. 2023.
 
-- [Detection method for the cucumber robotic grasping pose in clutter scenarios via instance segmentation](http://www.ijabe.net/article/doi/10.25165/j.ijabe.20231606.7542). Fan Zhang, Zuyu Hou, **Jin Gao**, Junxiong Zhang, Xue Deng. International Journal of Agricultural and Biological Engineering. 2024.
+- [Detection method for the cucumber robotic grasping pose in clutter scenarios via instance segmentation](http://www.ijabe.net/article/doi/10.25165/j.ijabe.20231606.7542). Fan Zhang, Zuyu Hou, **Jin Gao**, Junxiong Zhang, Xue Deng. *International Journal of Agricultural and Biological Engineering*. 2024.
 
 **2022:**
 
-- [Development and evaluation of a pneumatic finger-like end-effector for cherry tomato harvesting robot in greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S016816992200196X). **Jin Gao**, Fan Zhang, Junxiong Zhang, Ting Yuan, Jinliang Yin, Hui Guo, Chen Yang. Computers and Electronics in Agriculture. 2022.
+- [Development and evaluation of a pneumatic finger-like end-effector for cherry tomato harvesting robot in greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S016816992200196X). **Jin Gao**, Fan Zhang, Junxiong Zhang, Ting Yuan, Jinliang Yin, Hui Guo, Chen Yang. *Computers and Electronics in Agriculture*. 2022.
 
-- [Three-dimensional pose detection method based on keypoints detection network for tomato bunch](https://www.sciencedirect.com/science/article/abs/pii/S0168169922001417). Fan Zhang, **Jin Gao**, Hang Zhou, Junxiong Zhang, Kunlin Zou, Ting Yuan. Computers and Electronics in Agriculture. 2022.
+- [Three-dimensional pose detection method based on keypoints detection network for tomato bunch](https://www.sciencedirect.com/science/article/abs/pii/S0168169922001417). Fan Zhang, **Jin Gao**, Hang Zhou, Junxiong Zhang, Kunlin Zou, Ting Yuan. *Computers and Electronics in Agriculture*. 2022.
 
 # 🎖 Awards
 - *2025.05*, ​&nbsp;🎉 ​Outstanding Advisor Award, International College Student Intelligent Agricultural Equipment Innovation Competition​.
@@ -81,7 +81,7 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2019.06 - 2024.01*, China Agricultural University, PhD. 
 
 # 💬 Contact
-- Email: noview@163.com
+- E-mail: noview@163.com
 - Address: Room 304, Chengsi Building, Qingdao University (Fushan Campus)
 
 # 👥 Team
