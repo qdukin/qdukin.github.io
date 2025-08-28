@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# <i class="fa fa-user" style="color:#FFD700;"></i> Me
 
 I am an Assistant Professor and Master’s Supervisor at the [College of Mechanical and Electrical Engineering, Qingdao University](https://jdxy.qdu.edu.cn/). I have been recognized as a Young Outstanding Talent of Qingdao University and a recipient of the Golden Seed Talent Program of Qingdao City. I obtained my Ph.D. degree through a joint training program between [China Agricultural University](https://coe.cau.edu.cn/) and the [University of Lincoln](https://www.lincoln.ac.uk/liat/), UK.
 
