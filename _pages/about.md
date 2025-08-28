@@ -44,9 +44,14 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 - [LACTA: A lightweight and accurate algorithm for cherry tomato detection in unstructured environments](https://www.sciencedirect.com/science/article/abs/pii/S0957417423025757?via%3Dihub). **Jin Gao**; Junxiong Zhang; Fan Zhang; Junfeng Gao. Expert Systems with Applications. 2024.
 
-- [Greenhouse tomato detection and pose classification algorithm based on improved YOLOv5](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009079?via%3Dihub). Zhang, J.; Xie, J.; Zhang, F.; **Gao, J.**; Yang, C.; Song, C.; Rao, W.; Zhang, Y. Computers and Electronics in Agriculture. 2024.
+- [Detection method for the cucumber robotic grasping pose in clutter scenarios via instance segmentation](http://www.ijabe.net/article/doi/10.25165/j.ijabe.20231606.7542). Fan Zhang, Zuyu Hou, **Jin Gao**, Junxiong Zhang, Xue Deng. International Journal of Agricultural and Biological Engineering. 2024.
 
-- [A multi-species pest recognition and counting method based on a density map in the greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009420?via%3Dihub). Zhang, Z.; Rong, J.; Qi, Z.; Yang, Y.; Zheng, X.; **Gao, J.**; Li, W.; Yuan, T. Computers and Electronics in Agriculture. 2024.
+- [Greenhouse tomato detection and pose classification algorithm based on improved YOLOv5](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009079?via%3Dihub). Junxiong Zhang, Jinyi Xie, Fan Zhang, **Jin Gao**, Chen Yang, Chaoyu Song, Weijie Rao, Yu Zhang. Computers and Electronics in Agriculture. 2024.
+
+- [A multi-species pest recognition and counting method based on a density map in the greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009420?via%3Dihub). Zhiqin Zhang, Jiacheng Rong, Zhongxian Qi, Yan Yang, Xxiajun Zheng, **Jin Gao**, Wei Li, Ting Yuan. Computers and Electronics in Agriculture. 2024.
+
+
+**2023:**
 
 - []().
 
