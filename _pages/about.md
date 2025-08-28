@@ -35,23 +35,30 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 # 📝 Publications
 
 **2025:**
-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+
 
 **2024:**
-- [A multi-species pest recognition and counting method based on a density map in the greenhouse](10.1016/j.compag.2023.108554). Zhang, Z.; Rong, J.; Qi, Z.; Yang, Y.; Zheng, X.; Gao, J.; Li, W.; Yuan, T. Computers and Electronics in Agriculture.
 
+- [Picking patterns evaluation for cherry tomato robotic harvesting end-effector design](https://www.sciencedirect.com/science/article/abs/pii/S1537511024000151?via%3Dihub). **Jin Gao**; Fan Zhang; Junxiong Zhang; Hui Guo; Junfeng Gao. Biosystems Engineering. 2024.
 
+- [LACTA: A lightweight and accurate algorithm for cherry tomato detection in unstructured environments](https://www.sciencedirect.com/science/article/abs/pii/S0957417423025757?via%3Dihub). **Jin Gao**; Junxiong Zhang; Fan Zhang; Junfeng Gao. Expert Systems with Applications. 2024.
 
+- [Greenhouse tomato detection and pose classification algorithm based on improved YOLOv5](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009079?via%3Dihub). Zhang, J.; Xie, J.; Zhang, F.; **Gao, J.**; Yang, C.; Song, C.; Rao, W.; Zhang, Y. Computers and Electronics in Agriculture. 2024.
 
+- [A multi-species pest recognition and counting method based on a density map in the greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009420?via%3Dihub). Zhang, Z.; Rong, J.; Qi, Z.; Yang, Y.; Zheng, X.; **Gao, J.**; Li, W.; Yuan, T. Computers and Electronics in Agriculture. 2024.
 
+- []().
 
+- []().
 
+- []().
 
+- []().
 
+- []().
 
-
-
+- []().
 
 
 
