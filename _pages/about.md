@@ -53,16 +53,16 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2025.05*, &nbsp;🎉 Grand Prize, International College Student Intelligent Agricultural Equipment Innovation Competition (National Level)​.
 - *2023.06*, &nbsp;🎉 Outstanding Graduate of Beijing Ordinary Higher Education Institutions.
 - *2023.06*, &nbsp;🎉 Outstanding Graduate of China Agricultural University.
-- *2021.06*, &nbsp;🎉 National Study Abroad Scholarship for Public-Sponsored Students.
-- *2021.09*, &nbsp;🎉 Featured on CCTV-2 for Technological Achievements.
+- *2022.06*, &nbsp;🎉 National Study Abroad Scholarship for Public-Sponsored Students.
 - *2021.10*, &nbsp;🎉 Exhibitor at the National "13th Five-Year Plan" Science and Technology Innovation Achievements Exhibition.
+- *2021.09*, &nbsp;🎉 Featured on CCTV-2 for Technological Achievements.
 - *2017.10*, &nbsp;🎉 First Prize, China Agricultural Robotics Competition​ (National Level)​.
 
 # 📖 Experiences
-- *2019.06 - 2024.01*, China Agricultural University, PhD. 
-- *2022.06 - 2023.07*, University of Lincoln (UK), Joint PhD Training.
-- *2025.09 - 2027.09*, Wuzheng Group, In-service postdoctoral researcher​.
 - *2024.01 - Now*, Qingdao University, Assistant Professor.
+- *2025.09 - 2027.09*, Wuzheng Group, In-service postdoctoral researcher​.
+- *2022.06 - 2023.07*, University of Lincoln (UK), Joint PhD Training.
+- *2019.06 - 2024.01*, China Agricultural University, PhD. 
 
 # 💬 News
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
