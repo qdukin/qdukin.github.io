@@ -56,4 +56,9 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 👥 Team
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Postgraduates**
+- *2024.09 - 2027.06*, Hanwen Xing.
+- *2024.09 - 2027.06*, Jincheng Li.
+
+**Undergraduates**
+- *2024.06 - 2026.06*, Xushuo Xing.
