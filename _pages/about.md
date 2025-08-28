@@ -45,11 +45,11 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 # 🎖 Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2024.01*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - 2023.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🔥 News
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,9 +57,8 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 # 👥 Team
 **Postgraduates:**
-- *2024*, Hanwen Xing, Jinan University.
-- *2024*, Jincheng Li, Changchun University Of Technology.
+- *2024*, Hanwen Xing (Jinan University), Jincheng Li (Changchun University Of Technology).
 
 **Undergraduates:**
-- *2024*, Xushuo Xing, Qingdao university.
-- *2025*, Guanbin Ye, Qingdao university.
+- *2024*, Xushuo Xing.
+- *2025*, Guanbin Ye, Xuan Liu.
