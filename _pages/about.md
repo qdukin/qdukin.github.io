@@ -50,7 +50,8 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 # 📖 Educations
 - *2019.06 - 2024.01*, China Agricultural University, Mechanical Manufacturing and Automation. 
 - *2022.06 - 2023.07*, University of Lincoln (UK), Robotics.
-- *2021.09 - 2022.06*, Wuzheng Group, ​​Autonomous Unmanned Systems​.
+- *2025.09 - 2022.09*, Wuzheng Group, ​​Autonomous Unmanned Systems​.
+- *2024.01 - Now*, Qingdao University, Mechanical Engineering.
 
 # 🔥 News
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
