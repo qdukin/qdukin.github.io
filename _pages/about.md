@@ -75,7 +75,7 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2017.10*, &nbsp;🎉 First Prize, China Agricultural Robotics Competition​ (National Level)​.
 
 # 📖 Experiences
-- *2024.01 - Now*, Qingdao University, Assistant Professor.
+- *2024.01 - Now*, Qingdao University, College of Mechanical and Electrical Engineering, Assistant Professor.
 - *2025.09 - 2027.09*, Wuzheng Group, In-service postdoctoral researcher​.
 - *2022.06 - 2023.07*, University of Lincoln (UK), Joint PhD Training.
 - *2019.06 - 2024.01*, China Agricultural University, PhD. 
