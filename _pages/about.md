@@ -48,8 +48,9 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2022.06* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2024.01*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.06 - 2023.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2024.01*, China Agricultural University, Mechanical Manufacturing and Automation. 
+- *2022.06 - 2023.07*, University of Lincoln (UK), Robotics.
+- *2021.09 - 2022.06*, Wuzheng Group, ​​Autonomous Unmanned Systems​.
 
 # 🔥 News
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,7 +58,8 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 # 👥 Team
 **Postgraduates:**
-- *2024*, Hanwen Xing (Jinan University), Jincheng Li (Changchun University Of Technology).
+- *2024*, Hanwen Xing (University of Jinan), Jincheng Li (Changchun University Of Technology).
+- *2025*, 3-4 students.
 
 **Undergraduates:**
 - *2024*, Xushuo Xing.
