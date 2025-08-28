@@ -48,7 +48,6 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 - [A multi-species pest recognition and counting method based on a density map in the greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009420?via%3Dihub). Zhiqin Zhang, Jiacheng Rong, Zhongxian Qi, Yan Yang, Xxiajun Zheng, **Jin Gao**, Wei Li, Ting Yuan. Computers and Electronics in Agriculture. 2024.
 
-
 **2023:**
 
 - [Development and field performance evaluation of hole-fertilizing planter and dynamic alignment control system for precision planting of corn](https://link.springer.com/article/10.1007/s11119-023-09988-6). **Jin Gao**, Fan Zhang, Junxiong Zhang, Hang Zhou, Ting Yuan.Precision Agriculture. 2023.
@@ -64,15 +63,6 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - [Development and evaluation of a pneumatic finger-like end-effector for cherry tomato harvesting robot in greenhouse](https://www.sciencedirect.com/science/article/abs/pii/S016816992200196X). **Jin Gao**, Fan Zhang, Junxiong Zhang, Ting Yuan, Jinliang Yin, Hui Guo, Chen Yang. Computers and Electronics in Agriculture. 2022.
 
 - [Three-dimensional pose detection method based on keypoints detection network for tomato bunch](https://www.sciencedirect.com/science/article/abs/pii/S0168169922001417). Fan Zhang, **Jin Gao**, Hang Zhou, Junxiong Zhang, Kunlin Zou, Ting Yuan. Computers and Electronics in Agriculture. 2022.
-
-**2021:**
-
-- []().
-
-- []().
-
-- []().
-
 
 # 🎖 Awards
 - *2025.05*, ​&nbsp;🎉 ​Outstanding Advisor Award, International College Student Intelligent Agricultural Equipment Innovation Competition​.
