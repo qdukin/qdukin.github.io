@@ -80,9 +80,9 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - *2022.06 - 2023.07*, University of Lincoln (UK), Joint PhD Training.
 - *2019.06 - 2024.01*, China Agricultural University, PhD. 
 
-# 💬 News
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Contact
+- Email: noview@163.com
+- Address: Room 304, Chengsi Building, Qingdao University (Fushan Campus)
 
 # 👥 Team
 **Postgraduates:**
