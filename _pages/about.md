@@ -36,6 +36,7 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 **2025:**
 
+- Adaptive Composite Control Based on Swing-Angle Estimation for Trajectory Tracking of agricultural transport unmanned helicopter. Yuxiang Hou , Shubo Wang, **Jin Gao**, Jian Chen. *Transactions of the Chinese Society for Agricultural Machinery*. 2025. (Under review)
 - A Lightweight Multi-View Visual Approach for Real-Time Cherry Tomato Detection, Tracking and Counting for Greenhouse Inspection Robots. Xushuo Xing, **Jin Gao**, Fangyan Wang, Shubo Wang, Xiuning Hou, Junfeng Gao. *Artificial Intelligence in Agriculture*. 2025. (Under review)
 
 **2024:**
@@ -65,6 +66,7 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 - [Three-dimensional pose detection method based on keypoints detection network for tomato bunch](https://www.sciencedirect.com/science/article/abs/pii/S0168169922001417). Fan Zhang, **Jin Gao**, Hang Zhou, Junxiong Zhang, Kunlin Zou, Ting Yuan. *Computers and Electronics in Agriculture*. 2022.
 
 # 🎖 Awards
+- *2025.08*, &nbsp;🎉 First Prize, National Chinese College Students Engineering Practice and Innovation Competition (National Level).
 - *2025.05*, ​&nbsp;🎉 ​Outstanding Advisor Award, International College Student Intelligent Agricultural Equipment Innovation Competition​.
 - *2025.05*, &nbsp;🎉 Grand Prize, International College Student Intelligent Agricultural Equipment Innovation Competition (National Level)​.
 - *2023.06*, &nbsp;🎉 Outstanding Graduate of Beijing Ordinary Higher Education Institutions.
