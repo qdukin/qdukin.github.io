@@ -25,7 +25,8 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 
 # 🔥 Projects
 
-- National Natural Science Foundation of China (NSFC) Youth Project, 2025.01 - 2027.12, Ongoing, Leader.
+- Enterprise Technology Development Project, 145w, 2026.02 - 2027.08, Ongoing, Leader.
+- National Natural Science Foundation of China (NSFC) Youth Project, 30w, 2025.01 - 2027.12, Ongoing, Leader.
 - Qingdao Gold Seed Talent Program, 2025.08 - 2027.08, Ongoing, Leader.
 - Enterprise Technology Development Project, 2025.05 - 2028.05, Ongoing, Leader.
 - Qingdao University Young Outstanding Talent Project, 2024.01 - 2027.12, Ongoing, Leader.
