@@ -89,7 +89,8 @@ My research interest includes **robotics**, **machine vision**, and **intelligen
 # 👥 Team
 **Postgraduates:**
 - *2024*, Hanwen Xing (University of Jinan), Jincheng Li (Changchun University Of Technology).
-- *2025*, 3-4 students.
+- *2025*, Weisheng Zhang (Ningxia University), Xiaochuan Zhang (Qingdao University of Technology), Peilin Shen (Wuhan Polytechnic University).
+- *2026*, 3-4 places.
 
 **Undergraduates:**
 - *2024*, Xushuo Xing.
